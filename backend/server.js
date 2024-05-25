@@ -42,6 +42,6 @@ app.get('/api/gps-data', (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`Server is running on http://localhost:${port}`);
+  console.log(`Server is running on https://vehicle-stoppage-visualizer.onrender.com/`);
 });
 
