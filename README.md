@@ -22,7 +22,7 @@ https://vehicle-stoppage-visualizer.vercel.app/
   Open [http://localhost:5000](http://localhost:5000) to view it in your browser. <br/>
 4) Then start the Frontend server using, <br/>
    ```npm start``` <br/>
-   This will start the server on port 5000 <br/>
+   This will start the server on port 3000 <br/>
   Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ![Screenshot 2024-05-25 225807](https://github.com/Kunal-Singh-Rajpurohit/vehicle-stoppage-visualizer/assets/107204198/3124da39-b29d-4d09-830d-88dac07f946a)
