@@ -2,7 +2,7 @@
 import axios from 'axios';
 
 export const fetchGPSData = async () => {
-    const response = await axios.get('http://localhost:5000/api/gps-data');
+    const response = await axios.get('https://vehicle-stoppage-visualizer.onrender.com/api/gps-data');
     return response.data;
 };
 
